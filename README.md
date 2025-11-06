@@ -1,7 +1,7 @@
 # VoIP Gateway
 
-**Course:** ECEN-5803 Master Embedded Systems Architecture
-**Project 2**
+**Course:** ECEN-5803 Master Embedded Systems Architecture<br>
+**Project 2**<br>
 **Authors:** Hannah Caldwell-Meurer, Nimish Sabnis, and Nimisha Madapura Rajashekhar 
 
 ---
